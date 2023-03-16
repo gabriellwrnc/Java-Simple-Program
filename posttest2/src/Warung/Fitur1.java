@@ -16,6 +16,6 @@ public class Fitur1 {
     }
 
     void fitur1Sukses() {
-        System.out.println(pelanggan + "Telah masuk kedalam antrian");
+        System.out.println(pelanggan + " Telah masuk kedalam antrian");
     }
 }
